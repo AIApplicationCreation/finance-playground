@@ -27,3 +27,11 @@ Next: Implement multiple ticker comparison
 Built: Added multiple ticker comparison  
 Broke: Multiple ticker comparison looks horrible  
 Next: Create multiple graphs so multiple ticker comparison can be useful  
+
+---
+
+**Day 3**
+
+Built: Created one normalization graph and added all of the other single stock graphs to the right of it
+Broke: Small problems along the way, but nothing major and everything was fixed in the end
+Next: Improve the terminal output (add average, min, max, etc.)
